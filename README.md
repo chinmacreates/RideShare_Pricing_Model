@@ -5,7 +5,7 @@ Developed and implemented a predictive regression pricing model to determine the
 # Exploratory Data Analysis & Preparation with SAS 
 
 ##  Project Overview  
-This project demonstrates data exploration techniques using SQL on SAS. The dataset contained common data issues such as missing values, inconsistent formatting, and incorrect data types.  
+This project demonstrates data exploration techniques using SQL and  SAS. The dataset contained common data issues such as missing values, inconsistent formatting, and incorrect data types.  
 
 ##  Key Tasks Performed  
 ~Conducted exploratory data analysis to identify patterns between ride pricing and contextual variables.
@@ -25,9 +25,9 @@ This project demonstrates data exploration techniques using SQL on SAS. The data
   
 
 ## Files in this Repository  
- **Raw Data**  
- **Cleaned Data**  
-**Screenshots** 
+ **EDA file** : Data understanding  
+ **Regression Model** : Code used to generate and validate the regression model 
+**.docx**  : Explanation of Analysis
 
 ## Key Insights  
 Pricing willingness varied significantly by time of day and weather conditions.
